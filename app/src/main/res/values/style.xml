@@ -1,0 +1,19 @@
+<resources>
+    <!-- Estilo do aplicativo -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Personalize o estilo do aplicativo conforme necessário -->
+        <!-- Por exemplo, defina a cor da barra de ação/toolbar -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Outros atributos do estilo -->
+    </style>
+
+    <!-- Estilo personalizado para ControleObrigacoesAcessorias -->
+    <style name="Theme.ControleObrigacoesAcessorias" parent="AppTheme">
+        <!-- Personalize o estilo conforme necessário -->
+        <item name="android:colorPrimary">#FF0000</item>
+        <item name="android:colorAccent">#00FF00</item>
+        <!-- Outros atributos do estilo -->
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Controle de Obrigações Acessórias</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_empresa">Nome da Empresa</string>
+    <string name="hint_cnpj">CNPJ</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_cadastrar">Cadastrar</string>
+</resources>
